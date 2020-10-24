@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Create `.env.local` file in root folder with valyes"
+```javascript
+SANITY_DATASET_NAME=your_dataset_name
+```
+
 First, run the development server:
 
 ```bash
