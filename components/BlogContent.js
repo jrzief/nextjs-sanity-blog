@@ -1,4 +1,3 @@
-
 import BlockContent from '@sanity/block-content-to-react';
 import HighlightCode from './HighlightCode';
 import { urlFor } from '../lib/api';

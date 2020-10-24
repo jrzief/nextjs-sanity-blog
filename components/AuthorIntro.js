@@ -14,7 +14,7 @@ const AuthorIntro = () =>
           className="mr-3"
           src="/BGHeadshot.jpeg"
           // src="https://avatars1.githubusercontent.com/u/9482724?s=460&u=69a6acab13fd5547a4e316e496b573271077147f&v=4"
-          alt="Generic placeholder"
+          alt="image placeholder"
         />
         <Media.Body>
           <h5 className="font-weight-bold mb-0">Hello Friends,</h5>
