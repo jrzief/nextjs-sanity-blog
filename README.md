@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Create `.env.local` file in root folder with valyes"
 ```javascript
 SANITY_DATASET_NAME=your_dataset_name
+SANITY_DATASET_ID=your_id
 ```
 
 First, run the development server:
