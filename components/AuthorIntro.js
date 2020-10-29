@@ -9,8 +9,8 @@ const AuthorIntro = () =>
       <Media className="mb-4 admin-intro">
         <Image
           roundedCircle
-          width={85}
-          height={85}
+          width={110}
+          height={110}
           className="mr-4"
           src="https://raw.githubusercontent.com/jrzief/nextjs-sanity-blog/main/public/BGheadshot.jpeg"
           // src="/bgheadshot.jpeg"
