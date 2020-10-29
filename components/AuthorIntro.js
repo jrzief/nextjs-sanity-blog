@@ -9,8 +9,8 @@ const AuthorIntro = () =>
       <Media className="mb-4 admin-intro">
         <Image
           roundedCircle
-          width={110}
-          height={110}
+          width={120}
+          height={120}
           className="mr-4"
           src="https://raw.githubusercontent.com/jrzief/nextjs-sanity-blog/main/public/BGheadshot.jpeg"
           // src="/bgheadshot.jpeg"
@@ -20,8 +20,8 @@ const AuthorIntro = () =>
         <Media.Body>
           <h5 className="font-weight-bold mb-0">Hello Friends,</h5>
           <p className="welcome-text">
-          My name is Brian Griner and I am an experienced data scientist and freelance consultant,
-          and this is my blog page.
+            My name is Brian Griner and I am an experienced data scientist and freelance consultant
+            in Machine Learning, Biostatistics, and Health Policy.
           </p>
         </Media.Body>
       </Media>
